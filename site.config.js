@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Sean's Friday Cheats",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "Your Friday Cheats Repository",
+    bio: "Friday Cheats Repository",
     email: "span@genumark.com",
     linkedin: "",
     github: "seanpan704",
