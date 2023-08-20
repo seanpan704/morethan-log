@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "seanpan",
+    name: "Sean's Friday Cheats",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "IT Analyst",
-    bio: "One stop shop for your IT needs",
+    role: "",
+    bio: "Your Friday Cheats Repository",
     email: "span@genumark.com",
     linkedin: "",
     github: "seanpan704",
