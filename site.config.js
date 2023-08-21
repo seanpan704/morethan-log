@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Genumark`,
-      href: "https://seanpan704.github.io/Genumark",
+      href: "https://www.genumark.com/locations",
     },
   ],
   // blog setting (required)
