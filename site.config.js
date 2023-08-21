@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Lead IT Analyst",
     bio: "Friday Cheats Repository",
     email: "span@genumark.com",
-    linkedin: "https://www.linkedin.com/in/xp64",
+    linkedin: "xp64",
     github: "seanpan704",
     instagram: "",
   },
