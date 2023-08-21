@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Genumark - IT",
+    title: "Genumark -IT",
     description: "Welcome to Friday Cheats Repository!",
   },
 
